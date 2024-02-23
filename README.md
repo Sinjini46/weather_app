@@ -28,4 +28,4 @@ This project is licensed under the MIT License.
 
 # Link to the site:
 
-https://sinjini46.github.io/weather_app/
+https://weather-app-mauve-nine-22.vercel.app/
